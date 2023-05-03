@@ -1,11 +1,11 @@
 .btn {
-    font-size: 1rem;
-    border-radius: 5px;
-    color: white;
-    background-color: rgb(20, 19, 32);
-    padding: 2px;
-    border: none;
+  font-size: 1rem;
+  border-radius: 5px;
+  color: white;
+  background-color: rgb(200, 19, 32);
+  padding: 2px;
+  border: none;
 }
 .btn:active {
-    transform: scale(1.1);
+  transform: scale(1.1);
 }
